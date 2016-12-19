@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Snap</string>
+    <string name="status_spinner">Status</string>
+
+    <string-array name="status">
+        <item>Hot</item>
+        <item>Warm</item>
+        <item>Cold</item>
+        <item>Stop</item>
+    </string-array>
+
+</resources>
